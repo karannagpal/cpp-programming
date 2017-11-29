@@ -1,3 +1,10 @@
+/*
+The following program
+shows how to create
+and traverse through matrix
+using a 2-dimensional array
+*/
+
 #include<iostream>
 using namespace std;
 

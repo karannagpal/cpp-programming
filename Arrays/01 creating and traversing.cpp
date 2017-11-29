@@ -1,3 +1,9 @@
+/*
+The following program
+shows how to create
+and traverse through array
+*/
+
 #include<iostream>
 using namespace std;
 
@@ -5,7 +11,7 @@ int main()
 {
     int i, n;
 
-    cout << "Enter number of elements in array: ";
+    cout << "Enter size of array: ";
     cin >> n;
 
     int arr[n];
@@ -18,6 +24,7 @@ int main()
     }
 
     cout << endl << "Array items are: " << endl;
+    //displaying the array
     for(i = 0; i < n; i++)
     {
         cout << arr[i] << "  ";
@@ -29,6 +36,7 @@ int main()
         cout << arr[i] << "  ";
     }
 
+    //extra new line for neat code
     cout << endl;
 
     return 0;

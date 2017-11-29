@@ -1,13 +1,20 @@
+/*
+The following program
+shows how to
+add two matrices
+using 2-dimensional array
+*/
+
 #include<iostream>
 using namespace std;
 
 int main()
 {
     int n;
-    int m1[10][10], m2[10][10];
+    int m1[5][5], m2[5][5];
     int i, j;
 
-    cout << "Enter size for matrix (max 10): ";
+    cout << "Enter size for matrix (max 5): ";
     cin >> n;
 
     cout << "Enter values for matrix 1" << endl;
@@ -44,4 +51,11 @@ int main()
     cout << endl;
 
     return 0;
+    /*
+    in this program,
+    sum is not stored in
+    some third 2-d array
+    it is printed directly
+    this saved some memory!
+    */
 }
