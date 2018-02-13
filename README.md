@@ -1,22 +1,21 @@
-# data-structures
+# cpp-programming
 
-### implementing data structures using C++
+### Collection of c++ programs
 
-* **Arrays**
+1. **Level 1 - Basics**
+	(ITPL course, 1st semester)
+	(conditions, loops, pointers, functions, recursion)
 
-* **Linked Lists**
+2. **Level 2 - Object Oriented Programming**
+	(OOP course, 4th semester)
 
-* **Stacks**
+3. **Level 3 - Standard Template Library**
+	(OOP course, 4th semester)
+	(Arrays, searching, sorting, linked lists, trees, grpahs etc)
 
-* **Queues**
-
-* **Heaps**
-
-* **Hash Tables**
-
-* **Searching Algorithms**
-
-* **Sorting Algorithms**
+4. **Level 4 - Advanced Programming Concepts**
+	(APC course, 6th semester)
+	(loops, pointers, functions, arrays, matrices, strings)
 
 
 
